@@ -1,18 +1,6 @@
-import {
-  backend,
-  github,
-  mysql,
-  python,
-  linux,
-  gochanakya,
-  suvidha,
-  bnp,
-} from '../assets';
+import { backend, github, mysql, python, linux, gochanakya } from '../assets';
 
-import {
-  Facebook,
-  Gamepad2,
-} from 'lucide-react';
+import { Facebook, Gamepad2 } from 'lucide-react';
 
 export const navLinks = [
   {
@@ -30,7 +18,6 @@ export const navLinks = [
 ];
 
 const profileLinks = [
-  
   {
     name: 'Github',
     icon: github,
@@ -77,7 +64,7 @@ const technologies = [
     name: 'Python',
     icon: python,
   },
-  
+
   {
     name: 'SQL',
     icon: mysql,
@@ -102,12 +89,13 @@ const projects = [
   },
   {
     name: 'ABDULGAMES',
-    description: 'Created my own game called "ABDULGAME" using css and javascript',
+    description:
+      'Created my own game called "ABDULGAME" using css and javascript',
     tags: [
       { name: 'JavaScript', color: 'blue-text-gradient' },
       { name: 'CSS', color: 'pink-text-gradient' },
     ],
-    icon: Gamepad2
+    icon: Gamepad2,
   },
 ];
 

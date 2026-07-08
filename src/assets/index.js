@@ -16,7 +16,6 @@ import gochanakya from '/assets/company/gochanakya.jpg';
 import suvidha from '/assets/company/suvidha.jpg';
 import bnp from '/assets/company/bnp.jpg';
 
-
 export {
   logo,
   backend,

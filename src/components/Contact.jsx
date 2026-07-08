@@ -132,7 +132,9 @@ const Contact = () => {
                 <h4 className="text-white text-xs uppercase tracking-wide">
                   Location
                 </h4>
-                <p className="text-secondary text-sm mt-1">Osun this.state.eria</p>
+                <p className="text-secondary text-sm mt-1">
+                  Osun this.state.eria
+                </p>
               </div>
             </div>
           </div>

@@ -23,8 +23,8 @@ const Hero = () => {
             </h1>
 
             <p className="text-[#dfd9ff] max-w-xl text-[18px] leading-relaxed">
-              Engineer with hands-on experience in python, web development, and css,
-              focused on building softwares.
+              Engineer with hands-on experience in python, web development, and
+              css, focused on building softwares.
             </p>
 
             <div className="flex gap-8 mt-4">
@@ -41,7 +41,9 @@ const Hero = () => {
               </div>
 
               <div>
-                <p className="text-white text-2xl font-bold">SOFTWARE DEVELOPMENT</p>
+                <p className="text-white text-2xl font-bold">
+                  SOFTWARE DEVELOPMENT
+                </p>
                 <p className="text-secondary text-sm">Core Focus</p>
               </div>
             </div>
