@@ -64,12 +64,7 @@ const About = () => {
 
       {/* Description */}
       <div className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
-        I am a software engineer with hands-on experience in Python, data
-        engineering, and applied AI. My work spans building internal platforms,
-        automating environments and releases, and developing AI-driven tools
-        such as chatbots and intelligent data utilities. I focus on creating
-        reliable, scalable systems with clear ownership, strong fundamentals,
-        and real-world impact.
+        I am a software engineering student with a strong passion for web development and a keen interest in exploring new technologies. I am constantly seeking opportunities to enhance my skills and contribute to innovative projects. With a solid foundation in programming and problem-solving, I am eager to take on challenges that allow me to grow as a developer and make a meaningful impact in the tech industry. i am currently learning frontend and backend technologies, and I am excited to apply my knowledge to real-world projects. I am a quick learner, adaptable, and always ready to embrace new challenges in the ever-evolving field of software development. 
         <div className="mt-5 flex flex-wrap gap-3">
           {profileLinks.map((profile, index) => (
             <ProfileCard key={index} {...profile} />

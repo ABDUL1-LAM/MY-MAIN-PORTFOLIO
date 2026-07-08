@@ -40,9 +40,9 @@ const Contact = () => {
         import.meta.env.VITE_APP_EMAILJS_TEMPLATE_ID,
         {
           from_name: form.name,
-          to_name: 'Umang Lodaya',
+          to_name: 'Lamidi Abdullahi',
           from_email: form.email,
-          to_email: 'lodayaumang71@gmail.com',
+          to_email: 'abdullahilamidi16@gmail.com',
           message: form.message,
         },
         import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY
@@ -121,7 +121,7 @@ const Contact = () => {
                 <p className="text-secondary mt-2 text-sm">
                   Reach me directly at{' '}
                   <span className="text-white break-all">
-                    lodayaumang71@gmail.com
+                    abdullahilamidi16@gmail.com
                   </span>
                 </p>
               </div>
@@ -132,7 +132,7 @@ const Contact = () => {
                 <h4 className="text-white text-xs uppercase tracking-wide">
                   Location
                 </h4>
-                <p className="text-secondary text-sm mt-1">Mumbai, India</p>
+                <p className="text-secondary text-sm mt-1">Osun this.state.eria</p>
               </div>
             </div>
           </div>

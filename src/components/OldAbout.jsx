@@ -67,12 +67,7 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I am a software engineer with hands-on experience in Python, data
-        engineering, and applied AI. My work spans building internal platforms,
-        automating environments and releases, and developing AI-driven tools
-        such as chatbots and intelligent data utilities. I focus on creating
-        reliable, scalable systems with clear ownership, strong fundamentals,
-        and real-world impact.
+        I am a software engineer with hands-on experience in Python, frontend development, and backend development. i am currently learning frontend and backend technologies, and I am excited to apply my knowledge to real-world projects. I am adaptable, and always ready to try out new approaches in the ever-evolving field of software development.
         <div className="mt-5 flex flex-row flex-wrap justify-normal gap-3">
           {profileLinks.map((profile, index) => (
             <ProfileCard key={`project-${index}`} {...profile} />

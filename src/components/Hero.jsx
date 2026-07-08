@@ -19,12 +19,12 @@ const Hero = () => {
           <div className="flex flex-col gap-6">
             <h1 className="text-white font-black text-[48px] sm:text-[64px] leading-tight">
               IT’S ME <br />
-              <span className="text-[#915eff]">UMANG LODAYA</span>
+              <span className="text-[#915eff]">LAMIDI ABDULLAHI</span>
             </h1>
 
             <p className="text-[#dfd9ff] max-w-xl text-[18px] leading-relaxed">
-              Engineer with hands-on experience in Data Science, DevOps, and AI,
-              focused on building production-grade systems, not just models.
+              Engineer with hands-on experience in python, web development, and css,
+              focused on building softwares.
             </p>
 
             <div className="flex gap-8 mt-4">
@@ -41,7 +41,7 @@ const Hero = () => {
               </div>
 
               <div>
-                <p className="text-white text-2xl font-bold">AI · DevOps</p>
+                <p className="text-white text-2xl font-bold">SOFTWARE DEVELOPMENT</p>
                 <p className="text-secondary text-sm">Core Focus</p>
               </div>
             </div>
@@ -51,7 +51,7 @@ const Hero = () => {
           <div className="hidden lg:flex justify-center relative">
             <img
               src={profileImg}
-              alt="Umang Lodaya"
+              alt="Lamidi abdullahi"
               className="
                 w-[360px] h-[460px]
                 object-cover
